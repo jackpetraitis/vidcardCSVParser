@@ -1,0 +1,5 @@
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\bin\Release\csvParser.exe.config
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\bin\Release\csvParser.exe
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\bin\Release\csvParser.pdb
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\obj\Release\csvParser.exe
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\obj\Release\csvParser.pdb

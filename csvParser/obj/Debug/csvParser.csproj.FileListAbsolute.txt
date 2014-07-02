@@ -1,0 +1,6 @@
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\bin\Debug\csvParser.exe.config
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\bin\Debug\csvParser.exe
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\bin\Debug\csvParser.pdb
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\obj\Debug\csvParser.csprojResolveAssemblyReference.cache
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\obj\Debug\csvParser.exe
+c:\users\petraitj\documents\visual studio 2012\Projects\csvParser\csvParser\obj\Debug\csvParser.pdb
